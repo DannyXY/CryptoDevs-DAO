@@ -1,0 +1,12 @@
+# Go to https://www.alchemyapi.io, sign up, create
+# a new App in its dashboard and select the network as Rinkeby, and replace "add-the-alchemy-key-url-here" with its key url
+ALCHEMY_API_KEY_URL="https://eth-rinkeby.alchemyapi.io/v2/Qhm-cTWFYuKZUDhbc0RxL_BzcKRH_qVA"
+
+# Replace this private key with your RINKEBY account private key
+# To export your private key from Metamask, open Metamask and
+# go to Account Details > Export Private Key
+# Be aware of NEVER putting real Ether into testing accounts
+RINKEBY_PRIVATE_KEY="7ed90ec0a8064db69af3aa31ee1076fdcd1e202a91a6381856a63354ef85d29d"
+
+FakeNFTMarketplace deployed to:  0x2E29cFb398df11F3315F0D098Bc995ac6C607641
+CryptoDevsDAO deployed to:  0x1f505B2B5f7FA2D24d37eCcB2008EAD087C5702C
